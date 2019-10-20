@@ -7,3 +7,4 @@ if __name__ == '__main__':
     op = input('연산자\n')
     result = calc.exec(op)
     print('계산결과 : %d ' % result)
+    # %d 정수 %s 문장 %s 실수
